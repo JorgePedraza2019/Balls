@@ -1,0 +1,77 @@
+#ball
+{
+z-index: 5;
+position: absolute;
+left: 0px;
+top: 0px;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+background: black;
+}
+#ball2
+{
+z-index: 5;
+position: absolute;
+left: 0px;
+top: 0px;
+width: 100px;
+height: 100px;
+border-radius: 50%;
+background: green;
+}
+#ball3
+{
+z-index: 5;
+position: absolute;
+left: 0px;
+top: 0px;
+width: 150px;
+height: 150px;
+border-radius: 50%;
+background: blue;
+}
+#ball4
+{
+z-index: 5;
+position: absolute;
+left: 0px;
+top: 0px;
+width: 100px;
+height: 100px;
+border-radius: 50%;
+background: red;
+}
+#ball5
+{
+z-index: 5;
+position: absolute;
+left: 0px;
+top: 0px;
+width: 500px;
+height: 500px;
+border-radius: 50%;
+background: violet;
+}
+#ball6
+{
+z-index: 5;
+position: absolute;
+left: 0px;
+top: 0px;
+width: 100px;
+height: 100px;
+border-radius: 50%;
+background: orange;
+}
+#ball7
+{
+z-index: 5;
+position: absolute;
+left: 0px;
+top: 0px;
+width: 100px;
+height: 100px;
+border-radius: 50%;
+background: greenyellow;
+}
